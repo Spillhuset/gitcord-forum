@@ -4,7 +4,7 @@
   "main": "./build/index.js",
   "workers_dev": true,
   "compatibility_date": "2025-05-05",
-  "kv_namespaces": [{ "binding": "DB", "id": "293ac4c6310245ee8b87c7a070ae24b2" }],
+  "kv_namespaces": [{ "binding": "DB", "id": "c5b704224a014d5d86398f303616425c" }],
   "build": {
     "command": "npm run build",
     "watch_dir": "./src",
